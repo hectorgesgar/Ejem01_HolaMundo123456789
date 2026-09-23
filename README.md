@@ -50,3 +50,8 @@ Se usa para el json
 ---
 
 Se puede subrayar partes == importantes ==
+
+---
+---
+---
+Modificación realizada en windowns
