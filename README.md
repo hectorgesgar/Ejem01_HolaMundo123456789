@@ -13,5 +13,5 @@ Hemos participado:
 - Yo
 - Yo
 
-Esta modificadion nos sirve para aprender markdown que por ejemplo los titulos '<h1><\h1>' los coloca con una almohadilla.
+Esta modificadion nos sirve para aprender markdown que por ejemplo los titulos "<h1><\h1>" los coloca con una almohadilla.
 
