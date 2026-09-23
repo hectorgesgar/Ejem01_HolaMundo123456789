@@ -17,13 +17,36 @@ Esta modificadion nos sirve para aprender markdown que por ejemplo los titulos `
 
 ---
 
-
 [Esto es un enlace](https/github.com)
 
-
 ---
-
 
 | Version | Modificación | Propietario de la modificación |
 | --- | --- | ----- |
 | 1.0 | creacion del readme | Héctor |
+
+---
+
+Se usa para el json
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+---
+
+:joy:
+
+---
+
+- [x] Hacer una lista de tareas
+- [ ] Saber que poner en la lista de tareas
+- [ ] Tareas
+
+---
+
+Se puede subrayar partes ==importantes==
